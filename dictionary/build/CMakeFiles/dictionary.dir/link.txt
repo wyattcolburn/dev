@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dictionary.dir/variance.c.o CMakeFiles/dictionary.dir/hash.c.o -o dictionary 

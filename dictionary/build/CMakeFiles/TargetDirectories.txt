@@ -1,0 +1,3 @@
+/home/wyatt/dev/dictionary/build/CMakeFiles/dictionary.dir
+/home/wyatt/dev/dictionary/build/CMakeFiles/edit_cache.dir
+/home/wyatt/dev/dictionary/build/CMakeFiles/rebuild_cache.dir

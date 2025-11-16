@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wyatt/dev/dictionary/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/dictionary.dir/variance.c.o -c /home/wyatt/dev/dictionary/variance.c",
+  "file": "/home/wyatt/dev/dictionary/variance.c"
+},
+{
+  "directory": "/home/wyatt/dev/dictionary/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/dictionary.dir/hash.c.o -c /home/wyatt/dev/dictionary/hash.c",
+  "file": "/home/wyatt/dev/dictionary/hash.c"
+}
+]
